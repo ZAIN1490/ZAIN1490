@@ -19,10 +19,11 @@ https://youtube.com/@zain-xj6v?si=004NS9tg3lLiDpZy
 
 ## 🔨 Projects
 
-- ⓕ [Facebook clone](https://github.com/yourusername/portfolio)  
-- ✅ [To-Do App](https://github.com/yourusername/todo-app)  
-- 🧮 [Calculator](https://github.com/yourusername/calculator)  
-- 🕹️ [Simple JavaScript Game](https://github.com/yourusername/game-project)
+- ⓕ [Facebook clone](
+https://github.com/ZAIN1490/Facebook-clone)  
+- 🛒[Amazon clone](
+https://github.com/ZAIN1490/Amazon-clone)  
+-  [E commerce website](https://github.com/ZAIN1490/E-commerce-website)  
 
 ---
 
